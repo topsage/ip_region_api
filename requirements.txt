@@ -1,0 +1,6 @@
+pyyaml==6.0.2
+requests==2.32.3
+fastapi==0.116.1
+uvicorn==0.35.0
+py-ip2region==3.0.4
+
