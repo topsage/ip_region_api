@@ -40,14 +40,14 @@ ip_region_api_project/
 ### 1. Install dependencies
 
 ```powershell
-cd C:\Users\axeli\Documents\Playground\ip_region_api_project
+cd ip_region_api_project
 python -m pip install -r requirements.txt
 ```
 
 ### 2. Start the service
 
 ```powershell
-cd C:\Users\axeli\Documents\Playground\ip_region_api_project
+cd ip_region_api_project
 .\run_ip_region_api.ps1
 ```
 
@@ -68,7 +68,7 @@ http://127.0.0.1:8011
 如果需要在其他服务器独立运行，直接使用：
 
 ```powershell
-cd C:\Users\axeli\Documents\Playground\ip_region_api_project\dist\ip_region_api_portable
+cd ip_region_api_project\dist\ip_region_api_portable
 .\start_ip_region_api.ps1
 ```
 
@@ -81,14 +81,14 @@ cd C:\Users\axeli\Documents\Playground\ip_region_api_project\dist\ip_region_api_
 ## Build The Portable Package
 
 ```powershell
-cd C:\Users\axeli\Documents\Playground\ip_region_api_project
+cd ip_region_api_project
 .\build_ip_region_api.ps1
 ```
 
 构建完成后，成品目录为：
 
 ```text
-C:\Users\axeli\Documents\Playground\ip_region_api_project\dist\ip_region_api_portable
+ip_region_api_project\dist\ip_region_api_portable
 ```
 
 把整个 `ip_region_api_portable` 文件夹拷到目标服务器即可，不要只拷贝 exe。
