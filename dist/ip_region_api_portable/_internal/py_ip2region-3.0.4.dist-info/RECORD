@@ -1,0 +1,13 @@
+ip2region/__init__.py,sha256=HLff5rixn-_ym_nJoxB7NO6FbRmBelrB5GQHDdszC10,186
+ip2region/__pycache__/__init__.cpython-314.pyc,,
+ip2region/__pycache__/searcher.cpython-314.pyc,,
+ip2region/__pycache__/util.cpython-314.pyc,,
+ip2region/searcher.py,sha256=YhyTrno7yFjO-ZSy7ZlVFVDDV0-w5tU3r_0bRFjZoNg,4983
+ip2region/util.py,sha256=7aVZKncAe_Oiz0JVp-tzcs9Xp9uETlI4IxhDvzv-q54,7264
+py_ip2region-3.0.4.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+py_ip2region-3.0.4.dist-info/METADATA,sha256=BZXxzK7gffVyYhmyg0P82BrCLjcOiwYLX5L1GkgQjzA,10018
+py_ip2region-3.0.4.dist-info/RECORD,,
+py_ip2region-3.0.4.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py_ip2region-3.0.4.dist-info/WHEEL,sha256=YCfwYGOYMi5Jhw2fU4yNgwErybb2IX5PEwBKV4ZbdBo,91
+py_ip2region-3.0.4.dist-info/licenses/LICENSE,sha256=RBZzWtxyVUauodNSh56sIJMudrwwUKTIHsn6ajo6Elw,12640
+py_ip2region-3.0.4.dist-info/top_level.txt,sha256=tAOFfuNazmVQaZe5FgnbNcfJWVeD4n-4YQcrXbnKMEA,10
